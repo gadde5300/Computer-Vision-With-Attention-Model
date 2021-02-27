@@ -20,3 +20,6 @@ The attention mechanism has become a very popular technique in natural language 
 Using visual attention in an image classification task helps determine important image regions and
 their correlations. The presence or absence of image regions is critical to classification.
 
+![Untitled (1)](https://user-images.githubusercontent.com/69344247/109391839-18bef380-793f-11eb-9e59-a018549c2e25.png)
+
+As we can see here in this image how the attention module focuses ona particularfeature from layer to layer during the training of the model.
