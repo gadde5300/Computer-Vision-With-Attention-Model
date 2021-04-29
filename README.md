@@ -24,4 +24,5 @@ their correlations. The presence or absence of image regions is critical to clas
 
 As we can see here in this image how the attention module focuses ona particularfeature from layer to layer during the training of the model.
 
+### Full Article - https://www.cluzters.ai/Model/1222/computer-vision-with-attention-model
 ### code credits - https://github.com/qubvel
